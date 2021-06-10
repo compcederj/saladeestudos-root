@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@saladeestudos/root-config": "http://localhost:9000/saladeestudos-root-config.js",
+    "@saladeestudos/landing": "http://localhost:8080/saladeestudos-landingpage.js"
+  }
+}

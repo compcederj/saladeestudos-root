@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@saladeestudos/root-config": "https://homolog-saladeestudos.s3.sa-east-1.amazonaws.com/saladeestudos-root-config.js",
+    "@saladeestudos/landing": "https://homolog-saladeestudos.s3.sa-east-1.amazonaws.com/saladeestudos-landingpage.js"
+  }
+}
